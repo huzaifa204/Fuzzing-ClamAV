@@ -1,0 +1,19 @@
+=== File: outputs/fuzzed_3.pdf ===
+Return Code: 0
+STDOUT:
+/home/kali/fuzz-env/tester/outputs/fuzzed_3.pdf: OK
+
+----------- SCAN SUMMARY -----------
+Known viruses: 8707509
+Engine version: 1.4.2
+Scanned directories: 0
+Scanned files: 1
+Infected files: 0
+Data scanned: 0.00 MB
+Data read: 0.00 MB (ratio 0.00:1)
+Time: 12.798 sec (0 m 12 s)
+Start Date: 2025:06:06 06:33:08
+End Date:   2025:06:06 06:33:21
+
+STDERR:
+
