@@ -22,7 +22,7 @@ def scan_with_clamav(filepath):
     return result
 
 for i in range(10):  # number of fuzzing attempts
-    fname = f"outputs/fuzzed_{i}.pdf"
+    fname = f"outputs/fuzzed_{i}.txt"
     generate_random_pdf(fname)
 
     result = scan_with_clamav(fname)
